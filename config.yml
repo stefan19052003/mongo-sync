@@ -11,7 +11,7 @@ local:
 remote:
   db: 'strapi-mongod-farmaplus'
   host:
-    url: '192.168.10.67'
+    url: '192.168.10.78'
     port: 27017
   access:
     username: 'admin'
